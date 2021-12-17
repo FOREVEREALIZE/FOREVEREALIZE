@@ -5,7 +5,7 @@ I am **FOREVEREALIZE** and I am a hobbyist that likes to make software.
 ## **Skills:**
 
 * Node.js
-* Python
+* 🐍 Python
 * C#
 * JS
 * Unity
@@ -20,7 +20,7 @@ I am **FOREVEREALIZE** and I am a hobbyist that likes to make software.
 
 * Language: **C / C++**
 * Status: **Dev**
-* Visibility: **Private**
+* 👀 Visibility: **Private**
 * Repo: **GitHub/FOREVEREALIZE/ProjectUnnamed**
 * Description:
   A videogame about going on a quest to find the name for a brand new videogame that has to be released in a set amount of time.
