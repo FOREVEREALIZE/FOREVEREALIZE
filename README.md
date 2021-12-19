@@ -8,7 +8,7 @@ I am **FOREVEREALIZE** and I am a hobbyist that likes to make software.
 * 🐍 Python
 * C#
 * JS
-* Unity
+* Unity (C#)
 * **Databases:**
   * MongoDB
   * MySQL
@@ -18,7 +18,7 @@ I am **FOREVEREALIZE** and I am a hobbyist that likes to make software.
 
 ## Currently working on: **Project Unnamed**
 
-* Language: **C / C++**
+* Language: **Unity (C#)**
 * Status: **Dev**
 * 👀 Visibility: **Private**
 * Repo: **GitHub/FOREVEREALIZE/ProjectUnnamed**
