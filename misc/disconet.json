@@ -1,6 +1,5 @@
 [
     {
-        "disabled": true,
         "id": "NEKOWORK",
         "type": "single",
         "message": "Nekowork",
@@ -19,6 +18,7 @@
         "cleanup": 5000
     },
     {
+        "disabled": true,
         "id": "NEKOFISH / NEKOMINE",
         "type": "multiple",
         "gap": 2000,
