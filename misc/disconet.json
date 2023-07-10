@@ -20,7 +20,7 @@
     {
         "id": "NEKOFISH / NEKOMINE",
         "type": "multiple",
-        "gap": 2000
+        "gap": 2000,
         "messages": [
             "Nekofish",
             "Nekomine"
