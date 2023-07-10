@@ -1,5 +1,6 @@
 [
     {
+        "disabled": true,
         "id": "NEKOWORK",
         "type": "single",
         "message": "Nekowork",
