@@ -19,7 +19,8 @@
     },
     {
         "id": "NEKOFISH / NEKOMINE",
-        "type": "single",
+        "type": "multiple",
+        "gap": 2000
         "messages": [
             "Nekofish",
             "Nekomine"
@@ -40,7 +41,7 @@
     },
     {
         "id": "WISH",
-        "type": "multiple",
+        "type": "repeat",
         "gap": 2000,
         "count": 9,
         "message": "*w Xiao noani",
