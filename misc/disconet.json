@@ -18,30 +18,15 @@
         "cleanup": 5000
     },
     {
-        "id": "NEKOFISH",
+        "id": "NEKOFISH / NEKOMINE",
         "type": "single",
-        "message": "Nekofish",
+        "messages": [
+            "Nekofish",
+            "Nekomine"
+        ],
         "channel": "1095804709572456515",
         "interval": {
-            "runImmediately": true,
-            "minutes": 5,
-            "seconds": 5
-        },
-        "constraints": {
-            "time": {
-                "startTime": 7,
-                "endTime": 21
-            }
-        },
-        "cleanup": 5000
-    },
-    {
-        "id": "NEKOMINE",
-        "type": "single",
-        "message": "Nekomine",
-        "channel": "1095804709572456515",
-        "interval": {
-            "runImmediately": true,
+            "runImmediately": false,
             "minutes": 5,
             "seconds": 5
         },
