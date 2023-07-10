@@ -3,7 +3,7 @@
         "id": "NEKOWORK",
         "type": "single",
         "message": "Nekowork",
-        "channel": "1095804709572456515",
+        "channel": "1095804709572456513",
         "interval": {
             "runImmediately": true,
             "hours": 1,
@@ -26,7 +26,7 @@
             "Nekofish",
             "Nekomine"
         ],
-        "channel": "1095804709572456515",
+        "channel": "1095804709572456513",
         "interval": {
             "runImmediately": false,
             "minutes": 5,
